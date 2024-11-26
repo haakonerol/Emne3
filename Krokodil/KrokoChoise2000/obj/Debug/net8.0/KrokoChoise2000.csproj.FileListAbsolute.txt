@@ -1,0 +1,14 @@
+/Users/hakanerol/Desktop/Emne3/Krokodil/KrokoChoise2000/bin/Debug/net8.0/KrokoChoise2000
+/Users/hakanerol/Desktop/Emne3/Krokodil/KrokoChoise2000/bin/Debug/net8.0/KrokoChoise2000.deps.json
+/Users/hakanerol/Desktop/Emne3/Krokodil/KrokoChoise2000/bin/Debug/net8.0/KrokoChoise2000.runtimeconfig.json
+/Users/hakanerol/Desktop/Emne3/Krokodil/KrokoChoise2000/bin/Debug/net8.0/KrokoChoise2000.dll
+/Users/hakanerol/Desktop/Emne3/Krokodil/KrokoChoise2000/bin/Debug/net8.0/KrokoChoise2000.pdb
+/Users/hakanerol/Desktop/Emne3/Krokodil/KrokoChoise2000/obj/Debug/net8.0/KrokoChoise2000.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanerol/Desktop/Emne3/Krokodil/KrokoChoise2000/obj/Debug/net8.0/KrokoChoise2000.AssemblyInfoInputs.cache
+/Users/hakanerol/Desktop/Emne3/Krokodil/KrokoChoise2000/obj/Debug/net8.0/KrokoChoise2000.AssemblyInfo.cs
+/Users/hakanerol/Desktop/Emne3/Krokodil/KrokoChoise2000/obj/Debug/net8.0/KrokoChoise2000.csproj.CoreCompileInputs.cache
+/Users/hakanerol/Desktop/Emne3/Krokodil/KrokoChoise2000/obj/Debug/net8.0/KrokoChoise2000.dll
+/Users/hakanerol/Desktop/Emne3/Krokodil/KrokoChoise2000/obj/Debug/net8.0/refint/KrokoChoise2000.dll
+/Users/hakanerol/Desktop/Emne3/Krokodil/KrokoChoise2000/obj/Debug/net8.0/KrokoChoise2000.pdb
+/Users/hakanerol/Desktop/Emne3/Krokodil/KrokoChoise2000/obj/Debug/net8.0/KrokoChoise2000.genruntimeconfig.cache
+/Users/hakanerol/Desktop/Emne3/Krokodil/KrokoChoise2000/obj/Debug/net8.0/ref/KrokoChoise2000.dll

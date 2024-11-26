@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KrokoChoise2000", "KrokoChoise2000\KrokoChoise2000.csproj", "{FA979E3F-27F0-43D1-A921-281D9AC92F21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA979E3F-27F0-43D1-A921-281D9AC92F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA979E3F-27F0-43D1-A921-281D9AC92F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA979E3F-27F0-43D1-A921-281D9AC92F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA979E3F-27F0-43D1-A921-281D9AC92F21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

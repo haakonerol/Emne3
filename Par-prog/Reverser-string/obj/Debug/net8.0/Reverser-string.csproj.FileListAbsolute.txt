@@ -1,0 +1,14 @@
+/Users/hakanerol/Desktop/Emne3/Par-prog/Reverser-string/bin/Debug/net8.0/Reverser-string
+/Users/hakanerol/Desktop/Emne3/Par-prog/Reverser-string/bin/Debug/net8.0/Reverser-string.deps.json
+/Users/hakanerol/Desktop/Emne3/Par-prog/Reverser-string/bin/Debug/net8.0/Reverser-string.runtimeconfig.json
+/Users/hakanerol/Desktop/Emne3/Par-prog/Reverser-string/bin/Debug/net8.0/Reverser-string.dll
+/Users/hakanerol/Desktop/Emne3/Par-prog/Reverser-string/bin/Debug/net8.0/Reverser-string.pdb
+/Users/hakanerol/Desktop/Emne3/Par-prog/Reverser-string/obj/Debug/net8.0/Reverser-string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanerol/Desktop/Emne3/Par-prog/Reverser-string/obj/Debug/net8.0/Reverser-string.AssemblyInfoInputs.cache
+/Users/hakanerol/Desktop/Emne3/Par-prog/Reverser-string/obj/Debug/net8.0/Reverser-string.AssemblyInfo.cs
+/Users/hakanerol/Desktop/Emne3/Par-prog/Reverser-string/obj/Debug/net8.0/Reverser-string.csproj.CoreCompileInputs.cache
+/Users/hakanerol/Desktop/Emne3/Par-prog/Reverser-string/obj/Debug/net8.0/Reverser-string.dll
+/Users/hakanerol/Desktop/Emne3/Par-prog/Reverser-string/obj/Debug/net8.0/refint/Reverser-string.dll
+/Users/hakanerol/Desktop/Emne3/Par-prog/Reverser-string/obj/Debug/net8.0/Reverser-string.pdb
+/Users/hakanerol/Desktop/Emne3/Par-prog/Reverser-string/obj/Debug/net8.0/Reverser-string.genruntimeconfig.cache
+/Users/hakanerol/Desktop/Emne3/Par-prog/Reverser-string/obj/Debug/net8.0/ref/Reverser-string.dll
