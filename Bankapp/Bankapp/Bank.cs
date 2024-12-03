@@ -41,6 +41,7 @@ public class Bank
             Console.WriteLine("Please select bill id-of bill to pay");
             var selectedBillId = int.Parse(Console.ReadLine());
             _currentCustomer.PayBill(selectedBillId);
+            _currentCustomer.PrintBills();
             break;
          case "4":
             break;
