@@ -6,7 +6,7 @@ public class Bank
 
    public Bank()
    {
-      _currentCustomer = new Customer("John Doe");
+      _currentCustomer = new Customer("John Doe",true);
       BankMenu();
    }
 
@@ -37,6 +37,10 @@ public class Bank
             _currentCustomer.Withdraw(withdrawSum,true);
             break;
          case "3":
+            _currentCustomer.PrintBills();
+            Console.WriteLine("Please select bill id-of bill to pay");
+            var selectedBillId = int.Parse(Console.ReadLine());
+            _currentCustomer.PayBill(selectedBillId);
             break;
          case "4":
             break;

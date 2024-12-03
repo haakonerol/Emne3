@@ -10,7 +10,7 @@ public class Account
 
      public Account( string accountName, bool isSavingsAccount)
      {
-          _balance = 0;
+          _balance = 10000;
           _accountName = accountName;
           _savingsAccount = isSavingsAccount;
           _accountNumber = new Guid().ToString();
