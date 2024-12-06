@@ -22,7 +22,13 @@ public class Customer
         _savingsAccount = new Account("Savings", true);
         _currentAccount = new Account("Current", false);
 
-        _bills = new List<Bill>() {new Bill(1,"12345",300, "Telenord",new DateTime(2024,12,24)), new Bill(2,"23456",200, "Elvia",new DateTime(2024,12,24)), new Bill(3,"34567",1200, "Storebrand",new DateTime(2024,12,15)), new Bill(4,"45678",3000, "DNB",new DateTime(2025,1,1)) };
+        _bills = new List<Bill>()
+        {
+            new Bill(1,"12345",300, "Telenord", new DateTime(2024,12,24)), 
+            new Bill(2,"23456",200, "Elvia",new DateTime(2024,12,24)), 
+            new Bill(3,"34567",1200, "Storebrand",new DateTime(2024,12,15)), 
+            new Bill(4,"45678",3000, "DNB",new DateTime(2025,1,1))
+        };
     }
 
     public string GetCustomerName()
