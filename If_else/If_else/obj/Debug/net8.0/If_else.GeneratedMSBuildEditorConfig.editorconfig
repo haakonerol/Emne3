@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = If_else
-build_property.ProjectDir = /Users/hakanerol/Desktop/Emne3/If_else/If_else/
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = /Users/hakanerol/Desktop/repo/Emne3/If_else/If_else/
