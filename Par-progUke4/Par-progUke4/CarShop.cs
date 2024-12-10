@@ -79,10 +79,7 @@ public class CarShop
                     Console.WriteLine("Please try again");
                     continue;
             }
-
- 
         }
-        
     }
     public void ShowAllCars()
     {
@@ -119,19 +116,29 @@ public class CarShop
         int maxKm = _cars.Max(car => car.Kilometer);
 
         Console.WriteLine($"\nYou can choose cars kilometer between: {minKm} - {maxKm}");
+        
         Console.Write("Please enter kilometer from: ");
         int selectedMinKm;
         int.TryParse(Console.ReadLine(), out selectedMinKm);
+        selectedMinKm = selectedMinKm == 0 ? minKm : selectedMinKm;
+       
         Console.Write("Please enter kilometer to: ");
         int selectedMaxKm;
-        int.TryParse(Console.ReadLine(), out selectedMaxKm);
+        selectedMaxKm = !int.TryParse(Console.ReadLine(), out selectedMaxKm) ? maxKm : selectedMaxKm;
         Console.WriteLine();
         
         var filteredCars = _cars.Where(car => car.Kilometer >= selectedMinKm && car.Kilometer <= selectedMaxKm).ToList();
-        filteredCars.ForEach(car =>
+        if (filteredCars.Any())
         {
-            Console.WriteLine("Car Id:" + car.CarId + car.Brand + " " + car.Model + " " + car.Kilometer);
+            filteredCars.ForEach(car =>
+        {
+            Console.WriteLine("Car Id:" +" "+ car.CarId + car.Brand + " " + car.Model + " " + car.Kilometer);
         });
+        }
+        else
+        {
+            Console.WriteLine("No cars found");
+        }
     }
 
     public void BuyCar(Car car)
@@ -152,7 +159,6 @@ public class CarShop
 
     public Car SelectCar()
     {
-        
         Car car= null;
         Console.WriteLine("Do you buy one?(y/n)");
         var userInput = Console.ReadKey();
