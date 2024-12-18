@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Par-progUke4/1.0.0": {
+        "runtime": {
+          "Par-progUke4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Par-progUke4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

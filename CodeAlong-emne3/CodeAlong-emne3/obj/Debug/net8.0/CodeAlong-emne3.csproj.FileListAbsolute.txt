@@ -1,0 +1,14 @@
+/Users/hakanerol/Desktop/Emne3/CodeAlong-emne3/CodeAlong-emne3/bin/Debug/net8.0/CodeAlong-emne3
+/Users/hakanerol/Desktop/Emne3/CodeAlong-emne3/CodeAlong-emne3/bin/Debug/net8.0/CodeAlong-emne3.deps.json
+/Users/hakanerol/Desktop/Emne3/CodeAlong-emne3/CodeAlong-emne3/bin/Debug/net8.0/CodeAlong-emne3.runtimeconfig.json
+/Users/hakanerol/Desktop/Emne3/CodeAlong-emne3/CodeAlong-emne3/bin/Debug/net8.0/CodeAlong-emne3.dll
+/Users/hakanerol/Desktop/Emne3/CodeAlong-emne3/CodeAlong-emne3/bin/Debug/net8.0/CodeAlong-emne3.pdb
+/Users/hakanerol/Desktop/Emne3/CodeAlong-emne3/CodeAlong-emne3/obj/Debug/net8.0/CodeAlong-emne3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakanerol/Desktop/Emne3/CodeAlong-emne3/CodeAlong-emne3/obj/Debug/net8.0/CodeAlong-emne3.AssemblyInfoInputs.cache
+/Users/hakanerol/Desktop/Emne3/CodeAlong-emne3/CodeAlong-emne3/obj/Debug/net8.0/CodeAlong-emne3.AssemblyInfo.cs
+/Users/hakanerol/Desktop/Emne3/CodeAlong-emne3/CodeAlong-emne3/obj/Debug/net8.0/CodeAlong-emne3.csproj.CoreCompileInputs.cache
+/Users/hakanerol/Desktop/Emne3/CodeAlong-emne3/CodeAlong-emne3/obj/Debug/net8.0/CodeAlong-emne3.dll
+/Users/hakanerol/Desktop/Emne3/CodeAlong-emne3/CodeAlong-emne3/obj/Debug/net8.0/refint/CodeAlong-emne3.dll
+/Users/hakanerol/Desktop/Emne3/CodeAlong-emne3/CodeAlong-emne3/obj/Debug/net8.0/CodeAlong-emne3.pdb
+/Users/hakanerol/Desktop/Emne3/CodeAlong-emne3/CodeAlong-emne3/obj/Debug/net8.0/CodeAlong-emne3.genruntimeconfig.cache
+/Users/hakanerol/Desktop/Emne3/CodeAlong-emne3/CodeAlong-emne3/obj/Debug/net8.0/ref/CodeAlong-emne3.dll
