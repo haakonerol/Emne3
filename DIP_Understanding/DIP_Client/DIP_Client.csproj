@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DIP_Abstraction\DIP_Abstraction.csproj" />
+      <ProjectReference Include="..\DIP_HighLevelModule\DIP_HighLevelModule.csproj" />
+      <ProjectReference Include="..\DIP_LowLevelModule\DIP_LowLevelModule.csproj" />
+    </ItemGroup>
+
+</Project>
